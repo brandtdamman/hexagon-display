@@ -1,6 +1,6 @@
-# Contributing to <REPO>
+# Contributing to H.E.X. Display
 
-Welcome and thanks for considering to contribute to <REPO>.
+Welcome and thanks for considering to contribute to H.E.X. Display.
 This document outlines some general guidelines related to how to best contribute to the project.
 When you're ready to contribute towards the project, please feel free to prepare a pull request.
 
@@ -25,7 +25,8 @@ When in doubt, aim for readability.
 
 ### LANGUAGE
 
-- STUFF
+It is unknown what language will be used for this project beyond possibly embedded C.
+Wait to contribute until this guide has been updated and a roadmap has been posted. 
 
 ### Markdown
 
@@ -47,7 +48,7 @@ Make sure to reference any open issue or related documents, where applicable, on
 
 ### Pull Requests
 
-Except in extreme cases, pull requests will generally be reviewed within a seven-day window.
+Except in extreme cases, pull requests will generally be reviewed within a fourteen-day window.
 Make sure to state all chances and reference any issues and related documents where necessary.
 
 ## Remarks
