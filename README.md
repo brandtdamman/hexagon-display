@@ -1,4 +1,4 @@
-# \<PROJECT NAME\>
+# H.E.X. Display
 ### Table of Contents
 
 - About
@@ -6,38 +6,15 @@
 - Usage
 - License
 
-
-
 ## About
 
-This is where you describe what the project/repository is about.  Explain its conception, if necessary.
+H.E.X. Display, or Hexagonical Electronic Xenodochial Display, is a hexagon display constructed of monocolor LEDs.
+Due to the architecture differences from modern displays, a custom graphics driver is written.
 
+## Status
 
-
-## Purpose
-
-What is the functionality of the repository?  To what end does it serve?  Due to the increase in FOSS, many projects arguably need a purpose to exist.
-
-
-
-## Usage
-
-How is this to be used?
-
-
-
-### Installation
-
-How does one install this repository, if applicable?
-
-
-
-### Running
-
-Are there special procedures for running this repository, if applicable?
-
-
+The display and graphics driver is currently not started.  Come back sometime during Summer 2021 to see possible updates and a developed roadmap.
 
 ## License
 
-Insert necessary legal text.
+H.E.X. Display is licensed under GNU GPL v3.0, which can be found in (LICENSE)[LICENSE].
