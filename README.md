@@ -2,8 +2,7 @@
 ### Table of Contents
 
 - About
-- Purpose
-- Usage
+- Status
 - License
 
 ## About
