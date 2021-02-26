@@ -7,7 +7,7 @@
 
 ## About
 
-H.E.X. Display, or Hexagonical Electronic Xenodochial Display, is a hexagon display constructed of monocolor LEDs.
+H.E.X. Display, or Hexagonal Electronic Xenodochial Display, is a hexagon display constructed of monocolor LEDs.
 Due to the architecture differences from modern displays, a custom graphics driver is written.
 
 ## Status
