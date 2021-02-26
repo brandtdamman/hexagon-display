@@ -17,4 +17,4 @@ The display and graphics driver is currently not started.  Come back sometime du
 
 ## License
 
-H.E.X. Display is licensed under GNU GPL v3.0, which can be found in (LICENSE)[LICENSE].
+H.E.X. Display is licensed under GNU GPL v3.0, which can be found in [LICENSE](LICENSE).
